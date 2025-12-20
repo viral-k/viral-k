@@ -1,9 +1,24 @@
-### Hi 👋,I'm Viral!
+# Hi, I'm Viral Kanzariya 👋  
 
-**Assistant Application Developer at Oracle**
+**Senior Software Engineer | Backend & Full-Stack | Eventbrite**
 
-**Intern Project** : https://bulkimagecompressor.com/
+I design and build large-scale backend systems that improve product performance, reliability, and revenue impact. My work spans distributed systems, AWS cloud services, data pipelines, microservices, and full-stack product engineering.
 
+### 💼 Current Role  
+Senior Software Engineer at Eventbrite, delivering product features and platform infrastructure that impact global event ticketing and conversion outcomes.
+
+### 🔧 Tech Focus  
+- Python, TypeScript, Java, NextJS, ReactJS
+- Django, Flask, Spring Boot, Helidon  
+- AWS (Lambda, S3, API Gateway, Glue, CloudWatch)  
+- Distributed Systems, Data Pipelines, System Design
+
+### 🌍 Interests  
+Backend architecture, scalability engineering, data platforms, system design, and solving real product problems.
+
+📫 **Contact:**  
+Email: viral.kanzariya3@gmail.com  
+LinkedIn: linkedin.com/in/viral-kanzariya  
 
 
 <!--
