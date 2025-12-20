@@ -18,12 +18,12 @@ Senior Software Engineer at Eventbrite, delivering product features and platform
 Backend architecture, scalability engineering, data platforms, system design, and solving real product problems.
 
 📫 **Contact:**  
-Email: viral.kanzariya3@gmail.com  
-LinkedIn: linkedin.com/in/viral-kanzariya  
+- Email: viral.kanzariya3@gmail.com  
+- LinkedIn: linkedin.com/in/viral-kanzariya  
 
 ### 🌱 Outside Work  
-I enjoy solving Rubik’s cubes, exploring financial markets, learning about algorithmic trading, and doing photography.
-Also, I love going through Quantum Physics concepts, Quantum computing basics, distributed system theory and going on Bike Rides.
+- I enjoy solving Rubik’s cubes, exploring financial markets, learning about algorithmic trading, and doing photography.
+- Also, I love going through Quantum Physics concepts, Quantum computing basics, distributed system theory and going on Bike Rides.
 
 
 
