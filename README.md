@@ -23,7 +23,7 @@ Backend architecture, scalability engineering, data platforms, system design, an
 
 ### 🌱 Outside Work  
 - I enjoy solving Rubik’s cubes, exploring financial markets, learning about algorithmic trading, and doing photography.
-- Also, I love going through Quantum Physics concepts, Quantum computing basics, distributed system theory and going on Bike Rides.
+- Also, I love going through Quantum Physics & Quantum computing basics, distributed system theory and going on Bike Rides.
 
 
 
