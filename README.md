@@ -15,7 +15,7 @@ Senior Software Engineer at Eventbrite, delivering product features and platform
 - Distributed Systems, Data Pipelines, System Design
 
 ### 🌍 Interests  
-Backend architecture, scalability engineering, data platforms, system design, and solving real product problems.
+Backend architecture, scalability engineering, data platforms, system design, and solving real product problems. 
 
 📫 **Contact:**  
 - Email: viral.kanzariya3@gmail.com  
