@@ -19,7 +19,7 @@ Backend architecture, scalability engineering, data platforms, system design, an
 
 📫 **Contact:**  
 - Email: viral.kanzariya3@gmail.com  
-- LinkedIn: linkedin.com/in/viral-kanzariya  
+- LinkedIn: linkedin.com/in/viral-kanzariya 
 
 ### 🌱 Outside Work  
 - I enjoy solving Rubik’s cubes, exploring financial markets, learning about algorithmic trading, and doing photography.
