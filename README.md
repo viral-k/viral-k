@@ -1,6 +1,6 @@
 # Hi, I'm Viral Kanzariya 👋  
 
-**Senior Software Engineer (Backend & Full-Stack) with 4.5+ years of experience** building distributed systems, data pipelines, and cloud architectures that drive real business impact.
+**Senior Software Engineer (Backend & Full-Stack) with 5 years of experience** building distributed systems, data pipelines, and cloud architectures that drive real business impact.
 
 ### 💼 Professional Background  
 Currently at **Eventbrite**, and previously worked at **foundit (Monster.com)** and **Oracle Financial Services**, delivering large-scale backend services, experimentation platforms, parsing systems, and cloud workflows.
@@ -9,7 +9,7 @@ Currently at **Eventbrite**, and previously worked at **foundit (Monster.com)** 
 Senior Software Engineer at Eventbrite, delivering product features and platform infrastructure that impact global event ticketing and conversion outcomes.
 
 ### 🔧 Tech Focus  
-- Python, TypeScript, Java, NextJS, ReactJS
+- Python, TypeScript, NodeJS, Java, NextJS, ReactJS
 - Django, Flask, Spring Boot, Helidon  
 - AWS (Lambda, S3, API Gateway, Glue, CloudWatch)  
 - Distributed Systems, Data Pipelines, System Design
