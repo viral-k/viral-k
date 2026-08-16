@@ -66,7 +66,6 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viral-k&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viral-k&layout=compact&hide_border=true" />
 </p>
 
