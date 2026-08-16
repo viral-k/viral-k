@@ -66,12 +66,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viral-k&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viral-k&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viral-k&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viral-k&layout=compact&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viral-k&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=viral-k&hide_border=true" />
 </p>
 
 ---
