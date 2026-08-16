@@ -1,6 +1,6 @@
 # Hi, I'm Viral Kanzariya 👋
 
-**Senior Software Engineer (Backend & Full-Stack)** with 5 years of experience building distributed systems, data pipelines, and cloud architectures that drive measurable business impact — from a 100M+ profile resume parser to Core Web Vitals wins on high-traffic pages.
+**Senior Software Engineer (Backend & Full-Stack)** with 5 years of experience building distributed systems, data pipelines, and cloud architectures that drive measurable business impact, from a 100M+ profile resume parser to Core Web Vitals wins on high-traffic pages.
 
 ---
 
